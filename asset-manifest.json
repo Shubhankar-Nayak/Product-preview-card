@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Shubhankar-Nayak/Product-preview-card/static/css/main.f66b5442.css",
-    "main.js": "/Shubhankar-Nayak/Product-preview-card/static/js/main.fa9a70f5.js",
-    "static/js/453.0f70527c.chunk.js": "/Shubhankar-Nayak/Product-preview-card/static/js/453.0f70527c.chunk.js",
-    "static/media/Montserrat-VariableFont_wght.ttf": "/Shubhankar-Nayak/Product-preview-card/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
-    "static/media/Fraunces-VariableFont_SOFT,WONK,opsz,wght.ttf": "/Shubhankar-Nayak/Product-preview-card/static/media/Fraunces-VariableFont_SOFT,WONK,opsz,wght.c767db37f6648bd42213.ttf",
-    "static/media/image-product-desktop.jpg": "/Shubhankar-Nayak/Product-preview-card/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
-    "static/media/image-product-mobile.jpg": "/Shubhankar-Nayak/Product-preview-card/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
-    "static/media/logo.svg": "/Shubhankar-Nayak/Product-preview-card/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Shubhankar-Nayak/Product-preview-card/index.html",
-    "static/media/icon-cart.svg": "/Shubhankar-Nayak/Product-preview-card/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
-    "main.f66b5442.css.map": "/Shubhankar-Nayak/Product-preview-card/static/css/main.f66b5442.css.map",
-    "main.fa9a70f5.js.map": "/Shubhankar-Nayak/Product-preview-card/static/js/main.fa9a70f5.js.map",
-    "453.0f70527c.chunk.js.map": "/Shubhankar-Nayak/Product-preview-card/static/js/453.0f70527c.chunk.js.map"
+    "main.css": "./static/css/main.458ed81b.css",
+    "main.js": "./static/js/main.c64f8e43.js",
+    "static/js/453.0f70527c.chunk.js": "./static/js/453.0f70527c.chunk.js",
+    "static/media/Montserrat-VariableFont_wght.ttf": "./static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
+    "static/media/Fraunces-VariableFont_SOFT,WONK,opsz,wght.ttf": "./static/media/Fraunces-VariableFont_SOFT,WONK,opsz,wght.c767db37f6648bd42213.ttf",
+    "static/media/image-product-desktop.jpg": "./static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "static/media/image-product-mobile.jpg": "./static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "static/media/icon-cart.svg": "./static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
+    "main.458ed81b.css.map": "./static/css/main.458ed81b.css.map",
+    "main.c64f8e43.js.map": "./static/js/main.c64f8e43.js.map",
+    "453.0f70527c.chunk.js.map": "./static/js/453.0f70527c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f66b5442.css",
-    "static/js/main.fa9a70f5.js"
+    "static/css/main.458ed81b.css",
+    "static/js/main.c64f8e43.js"
   ]
 }
